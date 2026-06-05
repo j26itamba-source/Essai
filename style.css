@@ -1,0 +1,246 @@
+
+
+
+.Mon-texte-du-debut {
+
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+margin-left: 100px;
+margin-top: 100px;
+
+}
+
+.Arriere-plan-photo{
+
+ 
+
+    background-color: rgb(0, 0, 0);
+    height: 230px;
+    padding-left: 400px;
+    padding-top: 100px;
+    margin-left: 80px;
+    margin-top: 50px;
+    margin-right: 100px;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px ;
+
+}
+
+img {
+
+   height: 190px;
+   width: 200px;
+   margin-left: 150px;
+   margin-top: -500px;
+   border: 5px solid white;
+   object-fit: cover;
+}
+
+.Nom-du-profil {
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 400px;
+    margin-top: -200px;
+    color: white;
+
+}
+
+.BIO {
+
+     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+     color: white;
+     margin-left: 400px;
+     margin-top: -10px;
+     font-weight: lighter;
+     
+
+}
+
+.Arriere-plan-A-Propos{
+
+background-color:rgb(255, 255, 255);
+width: 1042px;
+height: 800px;
+margin-top: 100px;
+margin-left: 80px;
+margin-right: 80px;
+margin-bottom: 50px;
+padding-left: 50px;
+padding-top: 50px;
+border-bottom-left-radius: 20px;
+border-bottom-right-radius: 20px;
+box-shadow: 0px 4px 15px rgb(112, 112, 112);
+
+
+}
+
+.A-propos {
+
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+p {
+
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+
+}
+
+.DOW-CV-Me-conctacter {
+
+display: flex;
+flex-direction: row;
+margin-top: -830px;
+margin-bottom: 900px;
+
+}
+
+.DOWLOAD-CV {
+
+
+margin-left: 270px;
+font-family: Arial, Helvetica, sans-serif;
+font-weight: bold;
+color: white;
+border: 2px solid white;
+padding-left: 10px;
+padding-right: 10px;
+padding-top: 10px;
+padding-bottom:10px;
+border-radius: 20px;
+font-weight: bold;
+text-decoration: none;
+
+}
+
+.DOWLOAD-CV:hover{
+
+
+  
+    background-color: white;
+    color: black;
+
+}
+
+.ME-CONTACTER {
+margin-left:10px;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 13px;
+font-weight: bold;
+color: white;
+border: 2px solid white;
+padding-left: 10px;
+padding-right: 10px;
+padding-top: 10px;
+padding-bottom:10px;
+border-radius: 20px;
+font-weight: bold;
+text-decoration: none;
+
+
+}
+
+.ME-CONTACTER:hover{
+    
+
+  
+    background-color: white;
+    color: black;
+
+}
+
+.age {
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+
+}
+
+.valeur-age {
+
+
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: normal;
+
+}
+
+
+a {
+
+font-family: Arial, Helvetica, sans-serif;
+text-decoration: none;
+
+
+}
+
+.email {
+
+   font-family: Arial, Helvetica, sans-serif;
+   font-weight: bold;
+
+}
+
+.tel {
+
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+
+}
+.adresse {
+
+ font-family: Arial, Helvetica, sans-serif;
+ font-weight: bold;
+
+}
+
+.nom-de-l-address {
+
+
+    font-weight: normal;
+}
+
+h3 {
+    
+    font-family: Arial, Helvetica, sans-serif;
+
+
+
+}
+
+
+.competences {
+
+   width: 400px;
+   max-width: 600px;
+   padding: 0 20px;
+
+}
+
+.competences-name {
+    
+    
+    font-family:Arial, Helvetica, sans-serif;
+    color:rgb(0, 0, 0);
+    margin: 20px 0;
+    
+}
+
+.competences-bar {
+
+   height:14px;
+
+   background-color: rgb(151, 149, 149);
+   border-radius: 3px;
+}
+
+.competences-per {
+
+    height: 14px;
+    background-color: rgb(0, 0, 0);
+    border-radius: 3px;
+    
+    
+    
+}
+
+
